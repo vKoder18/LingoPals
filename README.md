@@ -51,3 +51,5 @@ cd frontend
 npm install
 npm run dev
 ```
+## Deployed on:
+https://lingopals.onrender.com
