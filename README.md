@@ -1,4 +1,4 @@
-<h1 align="center">✨ Lingo Pals ✨</h1>
+<h1 align="center">✨ Chatter Globe ✨</h1>
 
 Highlights:
 
